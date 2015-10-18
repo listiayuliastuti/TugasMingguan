@@ -36,4 +36,5 @@ insert into tugas_mingguan values ("10113204","Yoga Tri Nugroho","2015-10-18 23:
 insert into tugas_mingguan values ("10113214","Gradiyanto Putera Husein","2015-10-18 23:26"),
 insert into tugas_mingguan values ("10112504","Ardi Buhardiansyah","2015-10-19 00:12"),
 >>>>>>> 718bdba29914efb11c40c3cb8c324a572401a91e
+insert into tugas_mingguan values ("10112531","Listia Yuliastuti","2015-10-19 02:17"),
 
